@@ -1,0 +1,6 @@
+[submodule "hackyeah"]
+	path = hackyeah
+	url = https://github.com/jack0wsky/hackyeah.git
+[submodule "hy_backend"]
+	path = hy_backend
+	url = https://github.com/zygmuntdzwigon/hy_backend.git
